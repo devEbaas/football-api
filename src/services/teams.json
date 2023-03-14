@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Dragones FC",
+    "logo": "",
+    "shortName": "DRA",
+    "city": "Hunuku"
+  },
+  {
+    "id": 1,
+    "name": "Lobos FC",
+    "logo": "",
+    "shortName": "LOB",
+    "city": "Hunuku"
+  },
+  {
+    "id": 1,
+    "name": "Real Hunuku FC",
+    "logo":"",
+    "shortName": "RHU",
+    "city": "Hunuku"
+},
+{
+    "id": 1,
+    "name": "Stars FC",
+    "logo":"",
+    "shortName": "STA",
+    "city": "Yalcoba"
+}
+]
